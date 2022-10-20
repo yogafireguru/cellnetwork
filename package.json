@@ -26,7 +26,7 @@
     "react-native-looped-carousel": "^0.1.13",
     "react-native-maps": "~0.25.0",
     "react-native-modal-dropdown": "^0.7.0",
-    "react-native-reanimated": "~1.2.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-sideswipe": "^1.5.0",
     "react-native-ticker": "^3.2.0",
     "react-native-vector-icons": "^6.6.0",
